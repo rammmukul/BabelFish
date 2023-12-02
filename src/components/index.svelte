@@ -279,7 +279,7 @@
                     ? ''
                     : 'hide'}"
                 on:click={() => {
-                    fetch(`http://140.238.245.209:8081/v1/stoptranslation?from=calee`);
+                    fetch(`http://140.238.245.209:8081/v1/stoptranslation?from=callee`);
                     leg1Speaking = false;
                 }}
             >
