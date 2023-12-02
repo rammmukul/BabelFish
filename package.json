@@ -1,0 +1,26 @@
+{
+  "name": "babelfish",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/svelte": "^4.0.4",
+    "@astrojs/tailwind": "^5.0.2",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "astro": "^3.6.4",
+    "astro-icon": "^0.8.1",
+    "svelte": "^5.0.0-next.1",
+    "tailwindcss": "^3.0.24"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "daisyui": "^4.4.17",
+    "flowbite-svelte-icons": "^0.4.5"
+  }
+}
